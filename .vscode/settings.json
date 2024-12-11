@@ -1,0 +1,17 @@
+{
+	"editor.cursorSmoothCaretAnimation": "on",
+    "editor.smoothScrolling": true,
+    "editor.inlineSuggest.enabled": true,
+    "editor.comments.insertSpace": false,
+    "editor.tabSize": 4,
+    "editor.insertSpaces": false,
+    "editor.renderWhitespace": "all",
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "files.trimFinalNewlines": true,
+    "editor.minimap.enabled": false,
+    "workbench.colorCustomizations": {},
+    "workbench.colorTheme": "GitHub Dark Default",
+    "window.zoomLevel": 0,
+    "files.autoSave": "afterDelay"
+}
